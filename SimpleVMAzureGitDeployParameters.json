@@ -12,7 +12,7 @@
            "value" : "ssevm"
        },
        "WindowsOSVersion": {
-         "value" : "2016-Datacenter"
+         "value" : "2016-Nano-Server"
        }
     }
   }
