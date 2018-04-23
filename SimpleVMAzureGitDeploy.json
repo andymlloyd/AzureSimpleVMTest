@@ -9,7 +9,7 @@
       }
     },
     "adminPassword": {
-      "type": "securestring",
+      "type": "string",
       "metadata": {
         "description": "Password for the Virtual Machine."
       }
@@ -43,7 +43,7 @@
     "subnetName": "Subnet",
     "subnetPrefix": "10.0.0.0/24",
     "publicIPAddressName": "myPublicIP",
-    "vmName": "SimpleWinVM",
+    "vmName": "SimpleWinVMSSE",
     "virtualNetworkName": "MyVNET",
     "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]"
   },
