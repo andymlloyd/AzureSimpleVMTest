@@ -10,9 +10,6 @@
      },
      "dnsLabelPrefix": {
          "value" : "SSEVM"
-     },
-     "WindowsOSVersion": {
-         "value" : "2016-Datacenter"
      }
   }
 }
