@@ -6,7 +6,7 @@
            "value": "SSEAdmin"
        },
        "adminPassword": {
-           "value" : "SSEAdminSSEAdmin"
+           "value" : "SSEAdminSSEAdmin1"
        },
        "dnsLabelPrefix": {
            "value" : "ssevm"
