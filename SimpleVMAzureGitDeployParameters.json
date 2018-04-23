@@ -9,7 +9,7 @@
            "value" : "SSEAdminSSEAdmin"
        },
        "dnsLabelPrefix": {
-           "value" : "SSEVM"
+           "value" : "ssevm"
        },
        "WindowsOSVersion": {
          "value" : "2016-Datacenter"
